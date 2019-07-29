@@ -4,7 +4,6 @@ import Footer from '../../components/Footer/Footer';
 import Toolbar from '../../components/Header/NavBar/Toolsbar';
 import SideDrawer from '../../components/Header/NavBar/SideDrawer';
 import Backdrop from '../../components/Header/NavBar/Backdrop';
-import Home from '../../components/Home/Home';
 import './layout.css';
 
 
